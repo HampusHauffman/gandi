@@ -25,6 +25,25 @@ body{
 	height: 1200px;
 	opacity: .98;
 }
+#menu{
+ 
+    width: 50%;
+    margin: 0 auto;
+
+}
+
+#menu nav ul{
+    list-style-type: none;
+    background-color: beige;
+
+
+}
+
+#menu nav ul li{
+    margin: 5px;
+    float: left;
+    background-color: aqua;
+}
 
 #logo{
 	width: 400px;
